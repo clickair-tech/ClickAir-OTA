@@ -1,9 +1,9 @@
 {
-  "versionCode": 41,
-  "versionName": "1.6.33",
+  "versionCode": 42,
+  "versionName": "1.6.34",
   "packageName": "com.jy.myclick",
-  "apkUrl": "https://github.com/clickair-tech/ClickAir-OTA/releases/download/v1.6.33/MyClick-1.6.33.apk",
-  "sha256": "195fb6897d226fd1746ee67dc777570e3d6840605cec1a10a9efef17d337b53d",
+  "apkUrl": "https://github.com/clickair-tech/ClickAir-OTA/releases/download/v1.6.34/MyClick-1.6.34.apk",
+  "sha256": "a094eaaa639094d5b6f808fcd502a409a632f8b65d260a306cbd7149ff86f8de",
   "sizeBytes": 7707005,
   "signingCertificateSha256": "da552e630da3e08b9e9b230d60b66c02bb46459fea236205cd7e516c8dfa9cd3"
 }
